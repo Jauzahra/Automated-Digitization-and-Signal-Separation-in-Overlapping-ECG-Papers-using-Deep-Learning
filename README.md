@@ -11,8 +11,8 @@ For your information, I used Kaggle to train my models and I recommend you to do
 
 ## Important Note on Repository Contents & Path Configuration
 
-- **Excluded Model Weights & Datasets:** To protect the originality of this thesis work and comply with repository storage limits, pre-trained model weights (`*.pt`, `*.pth`), compressed archives (`*.zip`), private clinical/hospital datasets, and the full generated synthetic training/validation datasets (`matplotlib_ecg/` and bulk cropped/segmented outputs) are **not included** in this repository.
-- **Custom Path Configuration:** All local file and directory paths in the notebooks have been cleared and replaced with empty strings (`"" # Fill with your own path`). Before running any notebook locally, please fill in `""` with the appropriate path on your own device.
+- **Excluded Model Weights & Datasets:** To protect the originality of this thesis work, pre-trained model weights (`*.pt`, `*.pth`), compressed archives (`*.zip`), private clinical/hospital datasets, and the full generated synthetic training/validation datasets are **not included** in this repository.
+- Before running any notebook locally, please fill in `""` with the appropriate path on your own device.
 
 ---
 
