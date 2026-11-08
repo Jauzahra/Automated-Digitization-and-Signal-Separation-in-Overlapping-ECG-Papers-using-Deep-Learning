@@ -1,0 +1,50 @@
+# Deep Learning Model Weights (Proprietary)
+*.pt
+*.pth
+
+# Archive Files
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# Scratch & Experimental Files
+Dump/
+
+# Generated Training & Validation Dataset (Large synthetic dataset)
+matplotlib_ecg/
+
+# Hospital / Clinical ECG Datasets (Private)
+test/RS/
+test/cropped_RS/
+test/segmented_RS/
+
+# Bulk Cropped & Segmented Test Images (Keep .csv evaluation metric files)
+test/other/cropped_yolo_results/normal/
+test/other/cropped_yolo_results/overlap/
+test/other/cropped_yolo_results/visualizations/
+test/other/cropped_yolo_results2/normal/
+test/other/cropped_yolo_results2/overlap/
+test/other/cropped_yolo_results2/visualizations/
+test/other/segmentation_results2/normal/
+test/other/segmentation_results2/overlap/
+
+# Python & Jupyter Notebook Artifacts
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv/
+venv/
+ENV/
+
+# OS & Editor Files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
