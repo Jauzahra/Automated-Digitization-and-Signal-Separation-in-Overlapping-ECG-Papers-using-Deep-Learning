@@ -13,6 +13,7 @@ test/cropped_RS/
 test/segmented_RS/
 test/comp/
 test/comp_segmented/
+test/cropped_comp/
 
 test/other/cropped_yolo_results/normal/
 test/other/cropped_yolo_results/overlap/
