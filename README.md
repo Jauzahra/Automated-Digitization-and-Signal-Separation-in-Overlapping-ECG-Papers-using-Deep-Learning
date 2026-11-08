@@ -34,7 +34,7 @@ For your information, I used Kaggle to train my models and I recommend you to do
    Run `combinedtest.ipynb` (fill in your local model weight and dataset paths in `""`). Evaluation results are inside the `test/other` folder.
 
 6. **Demo File Program for Final Project Defense:**
-   Run `final_combinedtest.ipynb` (fill in your local paths in `""`). The demo results are in the `test` folder under the `demo` and `comp` subfolders.
+   Run `final_combinedtest.ipynb` (fill in your local paths in `""`). The demo results are in the `test` folder under the `demo` subfolders.
 
 7. **Revision for signal extraction with Image Degradation:**
    Run `final_combinedtest - Copy.ipynb` (fill in your local paths in `""`). Evaluation results are inside the `test/other` folder.

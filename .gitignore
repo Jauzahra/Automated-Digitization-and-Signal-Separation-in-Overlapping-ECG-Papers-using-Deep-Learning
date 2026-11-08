@@ -11,6 +11,8 @@ matplotlib_ecg/
 test/RS/
 test/cropped_RS/
 test/segmented_RS/
+test/comp/
+test/comp_segmented/
 
 test/other/cropped_yolo_results/normal/
 test/other/cropped_yolo_results/overlap/
